@@ -8,7 +8,7 @@
 
 (3) Fork this repository.
 
-(4) Open DNN_ICE1.ipynb. Follow the instructions within the notebook to edit the code. 
+(4) Open DNN_ICE1.ipynb. Follow the instructions within the notebook to edit the code. **Note: if you are using VS Code, you will likely be prompted to install a Jupyter extension. Do this.
 
 (5) Run Black to check your code for minor errors and improper formatting using the following command (I did this in the terminal within VS code):
 `black --check .`
