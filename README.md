@@ -6,7 +6,7 @@
 (2) Install Black for Jupyter (this will allow the formatting / debug checker to run on *.ipynb files):
 `pip install black[jupyter]`
 
-(2) Fork this repository.
+(3) Fork this repository.
 
 (XX) Open single_neuron.ipynb. Follow the instructions within the notebook to edit the code. 
 
