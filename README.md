@@ -22,9 +22,6 @@ If the output does not say "All done! ✨ 🍰 ✨ 1 file would be left unchange
 (1) Install NengoDL (this is what we will use to build a DNN in Nengo) using the following command: 
 `pip install nengo-dl`
 
-(2) Install Keras (this is required to use NengoDL) using the following command:
-`pip install --upgrade keras`
-
 (XX) Fork this repository.
 
 (XX) Open nengoDNN_ICE2.ipynb. Follow the instructions within the notebook to edit the code. 
