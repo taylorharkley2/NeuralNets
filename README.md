@@ -19,14 +19,17 @@ If the output does not say "All done! ✨ 🍰 ✨ 1 file would be left unchange
 
 # In Class Exercise 2 - Deep Neural Networks in Nengo
 
-(1) Install NengoDL (this is what we will use to build a DNN in Nengo) using the following command: 
-`pip install nengo-dl`
-
-(1) You will need to create a new environment with the following packages: python 3.10, nengo 3.2, tensorflow 2.11.0, nengo-dl 3.6.0, and nengo-gui. If you are using conda, these commands should do the trick:
+(1) You will need to create a new environment with the following packages: python 3.10, nengo 3.2, tensorflow 2.10.1, nengo-dl 3.6.0, nengo-gui, black[jupyter], matplotlib, and scikit-learn. The process is to create a new environment, activate the environment, then download the packages as usual. If you are using conda, these commands should do the trick:
 `conda create --name py3.10-nengo3.2 python=3.10` -- This command gives your new environment a name of *py3.10-nengo3.2*
 `conda activate py3.10-nengo3.2` -- This command activates the environment so that you can install other programs within that environment. You'll see the name inside of your brackets change from *base* to the name of your new environment.
+`pip install python==3.10`
 `pip install nengo==3.2.0`
-`pip install tensorflow==2.11.0`
+`pip install tensorflow==2.10.1`
+`pip install nengo-dl==3.6.0`
+`pip install nengo-gui`
+`pip install black[jupyter]`
+`pip install matplotlib`
+`pip install scikit-learn`
 
 (XX) Fork this repository.
 
