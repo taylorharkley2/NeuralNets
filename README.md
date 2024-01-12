@@ -28,8 +28,9 @@ If the output does not say "All done! ✨ 🍰 ✨ 1 file would be left unchange
 `pip install nengo==3.2.0`
 `pip install tensorflow==2.11.0`
 
-
 (XX) Fork this repository.
+
+(XX) From your activated terminal, launch VS code: `code .`
 
 (XX) Open nengoDNN_ICE2.ipynb. Follow the instructions within the notebook to edit the code. 
 
