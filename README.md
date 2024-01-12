@@ -23,7 +23,7 @@ If the output does not say "All done! ✨ 🍰 ✨ 1 file would be left unchange
 `pip install nengo-dl`
 
 (1) You will need to create a new environment with the following packages: python 3.10, nengo 3.2, tensorflow 2.11.0, nengo-dl 3.6.0, and nengo-gui. If you are using conda, these commands should do the trick:
-`conda create --name py3.10-nengo3.2 python=3.10` -- This command gives your new environment a name of *py3.10-nengo3.2*
+`conda create --name py3.10-nengo3.2 python=3.10` -- This command gives your new environment a name of *py3.10-nengo3.2* \\
 `conda activate py3.10-nengo3.2` -- This command activates the environment so that you can install other programs within that environment. You'll see the name inside of your brackets change from *base* to the name of your new environment.
 `pip install nengo==3.2.0`
 `pip install tensorflow==2.11.0`
