@@ -8,7 +8,7 @@
 
 (3) Fork this repository.
 
-(4) Open DNN_ICE1.ipynb. Follow the instructions within the notebook to edit the code. 
+(4) Open DNN_ICE1.ipynb. Follow the instructions within the notebook to edit the code. **Note: if you are using VS Code, you will likely be prompted to install a Jupyter extension. Do this.
 
 (5) Run Black to check your code for minor errors and improper formatting using the following command (I did this in the terminal within VS code):
 `black --check .`
@@ -19,10 +19,21 @@ If the output does not say "All done! ✨ 🍰 ✨ 1 file would be left unchange
 
 # In Class Exercise 2 - Deep Neural Networks in Nengo
 
-(1) Install NengoDL (this is what we will use to build a DNN in Nengo) using the following command: 
-`pip install nengo-dl`
+(1) You will need to create a new environment with the following packages: python 3.10, nengo 3.2, tensorflow 2.10.1, nengo-dl 3.6.0, nengo-gui, black[jupyter], matplotlib, and scikit-learn. The process is to create a new environment, activate the environment, then download the packages as usual. If you are using conda, these commands should do the trick:
+`conda create --name py3.10-nengo3.2 python=3.10` -- This command gives your new environment a name of *py3.10-nengo3.2*
+`conda activate py3.10-nengo3.2` -- This command activates the environment so that you can install other programs within that environment. You'll see the name inside of your brackets change from *base* to the name of your new environment.
+`pip install python==3.10`
+`pip install nengo==3.2.0`
+`pip install tensorflow==2.10.1`
+`pip install nengo-dl==3.6.0`
+`pip install nengo-gui`
+`pip install black[jupyter]`
+`pip install matplotlib`
+`pip install scikit-learn`
 
 (XX) Fork this repository.
+
+(XX) From your activated terminal, launch VS code: `code .`
 
 (XX) Open nengoDNN_ICE2.ipynb. Follow the instructions within the notebook to edit the code. 
 
