@@ -12,10 +12,12 @@ If the output does not say "All done! ✨ 🍰 ✨ 1 file would be left unchange
 
 (6) Upload your GitHub repository into Gradescope under "ICE1 - DNN" assignment by T9 (Thurs, Feb 1), 1159. If the autograder fails, you did not successfully run Black. You can resubmit as many times as needed prior to the due date. You are also encouraged to schedule time for EI to debug as needed: [Book here](https://outlook.office.com/bookwithme/user/94f514961fa3476ab9598d4a2173d076@afacademy.af.edu?anonymous&ep=plink)
 
-**A few notes**
-The second half of the course will require a lot of self-study. In preparation for what that will entail, you will be required to look through support documentation as you work through this ICE (and future ICEs and Labs). For this ICE, I'll point you toward useful resources. Please utilize the support documentation provided _prior_ to asking ChatGPT anything. ChatGPT should be a supplementary resource, not the only resource.
+## A few notes
+The second half of the course will require a lot of self-study. In preparation for what that will entail, you will be required to look through support documentation as you work through this ICE (and future ICEs and Labs). For this ICE, I'll point you toward useful resources. As we go through more ICEs and Labs, you will see there is less guidance on finding support documentation. The hope is to gradually grow your independent research skills.  
 
-ChatGPT _should not_ be utilized to blindly write code and complete any of the assignments for this class. Remember that you will have an ICE quiz that will ensure you understand the main concepts of this ICE. If you blindly trust ChatGPT versus understanding what you're coding, you will not do well on the ICE quiz.  
+Please utilize the support documentation provided _prior_ to asking ChatGPT anything. ChatGPT should be a supplementary resource, not the only resource.
+
+ChatGPT _should not_ be utilized to blindly write code or complete any of the assignments for this class. Remember that you will have an ICE quiz that will ensure you understand the main concepts of this ICE. If you blindly trust ChatGPT versus understanding what you're coding, you will not do well on the ICE quiz.  
 
 # In Class Exercise 2 - Deep Neural Networks in Nengo (to be released 2/1)
 
