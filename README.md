@@ -19,7 +19,7 @@ Please utilize the support documentation provided _prior_ to asking ChatGPT anyt
 
 ChatGPT _should not_ be utilized to blindly write code or complete any of the assignments for this class. Remember that you will have an ICE quiz that will ensure you understand the main concepts of this ICE. If you blindly trust ChatGPT versus understanding what you're coding, you will not do well on the ICE quiz.  
 
-Within ICE2, you will see a note regarding some Nengo literature that might look very similar to your ICE2 assignment. It will be abundantly clear to me if you directly copy from the Nengo literature - _do not do that otherwise your grade will suffer_.  
+Within ICE2, you will see a note regarding Nengo literature that might look very similar to your ICE2 assignment. It will be abundantly clear to me if you directly copy from the Nengo literature - _do not do that otherwise your grade will suffer_.  
 
 # In Class Exercise 2 - Deep Neural Networks in Nengo (to be released 2/1)
 
