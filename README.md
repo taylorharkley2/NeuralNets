@@ -1,4 +1,4 @@
-# In Class Exercise 1 - Deep Neural Networks
+# In Class Exercise 1 - Deep Neural Networks (Workday 1/30)
 
 (1) Fork this repository.
 
@@ -21,7 +21,7 @@ ChatGPT _should not_ be utilized to blindly write code or complete any of the as
 
 Within ICE2, you will see a note regarding Nengo literature that might look very similar to your ICE2 assignment. It will be abundantly clear to me if you directly copy from the Nengo literature - _do not do that otherwise your grade will suffer_.  
 
-# In Class Exercise 2 - Deep Neural Networks in Nengo (to be released 2/1)
+# In Class Exercise 2 - Deep Neural Networks in Nengo (Workday 2/1)
 
 (1) Ensure you are using your 495 Virtual Environment created via instructions [here](https://github.com/kaitlin-fair/495venv_setup). 
 
